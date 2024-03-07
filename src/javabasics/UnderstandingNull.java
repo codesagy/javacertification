@@ -1,5 +1,8 @@
 package javabasics;
 
+/**
+ * @author Sagar Adhalge
+ */
 public class UnderstandingNull {
 
     static Object myObject = new Object();

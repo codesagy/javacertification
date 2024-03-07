@@ -1,5 +1,8 @@
 package javabasics;
 
+/**
+ * @author Sagar Adhalge
+ */
 public class DeclaringAndInitializingVariables {
 
     public static void main(String[] args) {

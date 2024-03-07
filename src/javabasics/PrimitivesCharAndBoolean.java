@@ -1,5 +1,8 @@
 package javabasics;
 
+/**
+ * @author Sagar Adhalge
+ */
 public class PrimitivesCharAndBoolean {
 
     public static void main(String[] args) {

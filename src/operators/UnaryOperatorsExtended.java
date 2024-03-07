@@ -1,7 +1,7 @@
 package operators;
 
 /**
- * @author goran on 30/06/2017.
+ * @author Sagar Adhalge
  */
 public class UnaryOperatorsExtended {
 

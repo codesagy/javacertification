@@ -2,6 +2,9 @@ package flowcontrol;
 
 import java.util.Random;
 
+/**
+ * @author Sagar Adhalge
+ */
 public class SwitchStatement {
 
     public static void main(String[] args) {

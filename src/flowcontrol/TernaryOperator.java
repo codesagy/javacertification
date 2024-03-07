@@ -1,5 +1,8 @@
 package flowcontrol;
 
+/**
+ * @author Sagar Adhalge
+ */
 public class TernaryOperator {
 
     public static void main(String[] args) {

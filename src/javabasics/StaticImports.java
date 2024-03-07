@@ -2,6 +2,9 @@ package javabasics;
 
 import static java.lang.Math.PI;
 
+/**
+ * @author Sagar Adhalge
+ */
 public class StaticImports {
 
 	public static void main(String[] args) {

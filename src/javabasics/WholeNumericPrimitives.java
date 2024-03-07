@@ -1,5 +1,8 @@
 package javabasics;
 
+/**
+ * @author Sagar Adhalge
+ */
 public class WholeNumericPrimitives {
 
 	public static void main(String[] args) {

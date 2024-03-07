@@ -1,5 +1,8 @@
 package operators;
 
+/**
+ * @author Sagar Adhalge
+ */
 public class EqualityOperators {
 
     public static void main(String[] args) {
